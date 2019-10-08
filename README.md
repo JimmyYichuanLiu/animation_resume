@@ -15,8 +15,6 @@
 ## Local Run
 
 ```bash
-  git clone git@github.com:QiShaoXuan/animate_resume_ts.git
-  cd animate_resume_ts
   npm install
   gulp
 ```
