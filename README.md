@@ -8,7 +8,7 @@
 
 - typescript
 - format reference: prismjs
-- prismjs + marked 处理代码转换
+- prismjs + marked for code transition
 - Mobile end used better-scroll for optimization
 
 
